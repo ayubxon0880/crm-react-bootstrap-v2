@@ -53,6 +53,7 @@ const HomePage = () => {
             <Container>
                 <Button onClick={event => setCong(!cong)}>{cong ? "Congratulations" : "CLICK ME :)"}</Button>
             </Container>
+            <h1>I hav no idea for home page huh (because this site's frontend side created by backend developer). This site does not need a home page.</h1>
         </>
     )
 }
